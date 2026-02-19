@@ -1,4 +1,9 @@
 amazon_review_polarity_csv/
 Clothes_Dataset/
 
-*csv
+*.csv
+*.txt
+*.model
+*.bin
+*.vectors
+*.npy
