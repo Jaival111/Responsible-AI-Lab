@@ -7,3 +7,4 @@ Clothes_Dataset/
 *.bin
 *.vectors
 *.npy
+*.vec
