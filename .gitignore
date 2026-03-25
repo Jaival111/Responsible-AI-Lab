@@ -8,3 +8,4 @@ Clothes_Dataset/
 *.vectors
 *.npy
 *.vec
+temp.ipynb
